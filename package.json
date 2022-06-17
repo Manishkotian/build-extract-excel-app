@@ -10,7 +10,7 @@
     "react-excel-renderer": "^1.1.0"
   },
   "devDependencies": {
-    "electron": "^1.7.10",
+    "electron": "^15.5.5",
     "electron-builder": "^19.52.1",
     "foreman": "^2.0.0"
   },
